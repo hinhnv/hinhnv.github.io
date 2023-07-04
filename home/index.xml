@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Tse-Hsun (Peter) Chen&#39;s website</title>
-    <link>https://petertsehsun.github.io/home/</link>
-    <description>Recent content in Homes on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <title>Homes on Nguyen Van Hinh&#39;s website</title>
+    <link>https://hinhnv.github.io/home/</link>
+    <description>Recent content in Homes on Nguyen Van Hinh&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
+    <copyright>&amp;copy; 2023 Nguyen Van Hinh</copyright>
     <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://petertsehsun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hinhnv.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://petertsehsun.github.io/home/about/</link>
+      <link>https://hinhnv.github.io/home/about/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/about/</guid>
+      <guid>https://hinhnv.github.io/home/about/</guid>
       <description>Queen&#39;s University in September 2016. I was a member of the Software Analysis and Intelligence Lab (SAIL) and I was supervised by an amazing supervisor Ahmed E. Hassan. Before that, I received my MSc from Queen&#39;s University (under the same supervisor), and BSc in Computer Science from the University of British Columbia. During my PhD, I worked as an embedded researcher in the Performance Engineering department at BlackBerry from January 2013 to December 2016.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://petertsehsun.github.io/home/news/</link>
+      <link>https://hinhnv.github.io/home/news/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/news/</guid>
+      <guid>https://hinhnv.github.io/home/news/</guid>
       <description>[Feb 2022] Congrats to Wei on the acceptance of our TSE paper SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications! [Dec 2022] Papers accepted at TSE, ICSE, and ICSE-SEIP! [Aug 2022] I will serve as a PC on the Research Track of AAAI 2023 [Aug 2022] Congratulations to Zehao, Haoxiang, and Shaowei on the acceptance of our JSS paper An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications!</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://petertsehsun.github.io/home/publications/</link>
+      <link>https://hinhnv.github.io/home/publications/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/publications/</guid>
+      <guid>https://hinhnv.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://petertsehsun.github.io/home/teaching/</link>
+      <link>https://hinhnv.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/teaching/</guid>
+      <guid>https://hinhnv.github.io/home/teaching/</guid>
       <description> SOEN 7481 (Fall 2018, 2019): Software Verification and Testing SOEN 691 (Winter 2018): Mining Large Software System Data for DevOps SOEN 341 (Winter 2018, 2019, 2020, Fall 2019): Software Process SOEN 342 (Fall 2017): Software Requirements and Specifications  </description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>https://petertsehsun.github.io/home/students/</link>
+      <link>https://hinhnv.github.io/home/students/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/students/</guid>
+      <guid>https://hinhnv.github.io/home/students/</guid>
       <description>MSc Students
  Tarek Makkouk Misheelt (Mia) Munkhjargal Nakhla Rafi Lorena Barreto  PhD Students
  An Ran Chen Dong Jae Kim Arthur Vitui Wei Liu Zehao Wang Yi Wen Heng Zeyang Ma  Alumni
@@ -62,20 +62,20 @@
     
     <item>
       <title>Services</title>
-      <link>https://petertsehsun.github.io/home/services/</link>
+      <link>https://hinhnv.github.io/home/services/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/services/</guid>
+      <guid>https://hinhnv.github.io/home/services/</guid>
       <description>Organizing Committee and Journal Editor
  Co-editor of the Special Issue on Software Engineering and DevOps, Journal of Information Science and Engineering (JISE), 2021. The 12th International Conference on Performance Engineering (ICPE), Co-Chair of the Artifact Evaluation Track, 2021. Co-editor of the Special Issue on Software Performance, Empirical Software Engineering Journal (EMSE), 2020. Co-editor of the Special Issue on Collective Knowledge in Software Engineering, Empirical Software Engineering Journal (EMSE), 2020. The 8th International Workshop on Load Testing and Benchmarking of Software Systems (LTB), Program Chair, 2020.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://petertsehsun.github.io/home/contact/</link>
+      <link>https://hinhnv.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/home/contact/</guid>
+      <guid>https://hinhnv.github.io/home/contact/</guid>
       <description></description>
     </item>
     
