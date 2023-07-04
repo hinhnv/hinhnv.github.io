@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stackoverflow on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/tags/stackoverflow/</link>
+    <description>Recent content in Stackoverflow on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://petertsehsun.github.io/tags/stackoverflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/tse2023slocator/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2023slocator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
+      <link>https://petertsehsun.github.io/publication/tse2022tevos/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2022tevos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
+      <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J21] Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs</title>
+      <link>https://petertsehsun.github.io/publication/tse2021pathidea/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021pathidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
+      <link>https://petertsehsun.github.io/publication/tse2021security/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
+      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
+      <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019-comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J10] An Empirical Study of Obsolete Answers on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2019/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J7] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2018/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J5] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tse-Hsun (Peter) Chen&#39;s website on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/</link>
+    <description>Recent content in Tse-Hsun (Peter) Chen&#39;s website on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/tse2023slocator/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2023slocator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C22] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
+      <link>https://petertsehsun.github.io/publication/icse2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C23] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
+      <link>https://petertsehsun.github.io/publication/tse2022tevos/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2022tevos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J26] An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications</title>
+      <link>https://petertsehsun.github.io/publication/jss2022/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C21] How Useful is Code Change Information for Fault Localization in Continuous Integration?</title>
+      <link>https://petertsehsun.github.io/publication/ase2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/ase2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C20] An Empirical Study on Performance Bugs in Deep Learning Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/icsme2022/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J25] Towards Learning Generalizable Code Embeddings using Task-agnostic Graph Convolutional Networks</title>
+      <link>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C19] A First Look at Information Highlighting in Stack Overflow Answers</title>
+      <link>https://petertsehsun.github.io/publication/icsme2022-nier/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2022-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J24] Can Pre-trained Code Embeddings Improve Model Performance? Revisiting the Use of Code Embeddings in Software Engineering Tasks</title>
+      <link>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C18] Is Reputation on Stack Overflow a Good Indicator for Users’ Expertise? No!</title>
+      <link>https://petertsehsun.github.io/publication/icsme2021-nier/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2021-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C17] Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Application</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-dplog/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-dplog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C16] How Disabled Tests Manifest in Test Maintainability Challenges?</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-disabled-test/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-disabled-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
+      <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J22] MLASP: Machine Learning Assisted Capacity Planning - An industrial experience report</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-mlasp/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-mlasp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

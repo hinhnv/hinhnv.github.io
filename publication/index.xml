@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/publication/</link>
+    <description>Recent content in Publications on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://petertsehsun.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/tse2023slocator/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2023slocator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C22] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
+      <link>https://petertsehsun.github.io/publication/icse2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C23] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
+      <link>https://petertsehsun.github.io/publication/tse2022tevos/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2022tevos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J26] An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications</title>
+      <link>https://petertsehsun.github.io/publication/jss2022/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C21] How Useful is Code Change Information for Fault Localization in Continuous Integration?</title>
+      <link>https://petertsehsun.github.io/publication/ase2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/ase2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C20] An Empirical Study on Performance Bugs in Deep Learning Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/icsme2022/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J25] Towards Learning Generalizable Code Embeddings using Task-agnostic Graph Convolutional Networks</title>
+      <link>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C19] A First Look at Information Highlighting in Stack Overflow Answers</title>
+      <link>https://petertsehsun.github.io/publication/icsme2022-nier/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2022-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J24] Can Pre-trained Code Embeddings Improve Model Performance? Revisiting the Use of Code Embeddings in Software Engineering Tasks</title>
+      <link>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C18] Is Reputation on Stack Overflow a Good Indicator for Users’ Expertise? No!</title>
+      <link>https://petertsehsun.github.io/publication/icsme2021-nier/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2021-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C17] Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Application</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-dplog/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-dplog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C16] How Disabled Tests Manifest in Test Maintainability Challenges?</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-disabled-test/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-disabled-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
+      <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J22] MLASP: Machine Learning Assisted Capacity Planning - An industrial experience report</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-mlasp/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-mlasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J21] Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs</title>
+      <link>https://petertsehsun.github.io/publication/tse2021pathidea/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021pathidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J20] The Secret Life of Test Smells - An Empirical Study on Test Smell Evolution and Maintenance</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-testsmell/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-testsmell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J19] Studying Backers and Hunters in Bounty Issue Addressing Process of Open Source Projects</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-bounty/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-bounty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
+      <link>https://petertsehsun.github.io/publication/tse2021security/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J17] Studying Duplicate Logging Statements and Their Relationships with Code Clones</title>
+      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C15] Studying Test Annotation Maintenance in the Wild</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-testing/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C14] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-deeplv/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-deeplv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J16] Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies</title>
+      <link>https://petertsehsun.github.io/publication/tse2020max/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J15] Demystifying the Challenges and Benefits of Analyzing User-Reported Logs in Bug Reports</title>
+      <link>https://petertsehsun.github.io/publication/emse2020/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
+      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
+      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J12] A3: Assisting Android API Migrations Using Code Examples</title>
+      <link>https://petertsehsun.github.io/publication/tse2021peng/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
+      <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019-comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C13] A First Look at the Integration of Machine Learning Models in Complex Autonomous Driving Systems - A Case Study on Apollo</title>
+      <link>https://petertsehsun.github.io/publication/fse2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C12] Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks</title>
+      <link>https://petertsehsun.github.io/publication/ase2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/ase2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J10] An Empirical Study of Obsolete Answers on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2019/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J9] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
+      <link>https://petertsehsun.github.io/publication/emse2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J8] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
+      <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2019-ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C11] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <link>https://petertsehsun.github.io/publication/icse2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J7] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2018/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C10] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2018-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J6] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
+      <link>https://petertsehsun.github.io/publication/tr2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tr2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J5] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J4] Studying Software Logging Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C9] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2017-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J3] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/tse2016/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J2] A Survey on the Use of Topic Models when Mining Software Repositories</title>
+      <link>https://petertsehsun.github.io/publication/emse2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J1] Topic-based Software Defect Explanation</title>
+      <link>https://petertsehsun.github.io/publication/jss2016/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C8] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/fse2016/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C7] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
+      <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2016-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C6] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C5] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <link>https://petertsehsun.github.io/publication/msr2016/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C4] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <link>https://petertsehsun.github.io/publication/icde2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icde2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C3] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <link>https://petertsehsun.github.io/publication/icse2014/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C2] An Empirical Study of Dormant Bug</title>
+      <link>https://petertsehsun.github.io/publication/msr2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C1] Explaining Software Defects Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/msr2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

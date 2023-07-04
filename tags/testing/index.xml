@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/tags/testing/</link>
+    <description>Recent content in Testing on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://petertsehsun.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[J16] Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies</title>
+      <link>https://petertsehsun.github.io/publication/tse2020max/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
+      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C10] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2018-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C9] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2017-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J3] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/tse2016/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C6] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
